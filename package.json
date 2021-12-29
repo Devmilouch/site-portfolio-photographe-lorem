@@ -1,14 +1,13 @@
 {
   "name": "site-portfolio-photographe-lorem",
   "version": "1.0.0",
-  "private": true,
   "description": "Site one-page destiné à être sur mon portfolio.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amar Bouabbache",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "dependencies": {
     "sass": "^1.43.5"
   }
